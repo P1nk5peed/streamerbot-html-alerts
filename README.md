@@ -11,6 +11,21 @@ Well this is the repository for you!!
 ✓ Funni Gifs  
 ✓ Optional Mambo  
 
+## Current Events
+
+✓ Twitch Follow  
+✓ Twitch First Word (User Joining Chat)  
+✓ YouTube First Words (User Joining Chat)  
+✓ Twitch Cheer  
+✓ Twitch Sub  
+✓ Twitch Gift Sub  
+✓ Twitch Raid  
+More later?
+
+## Screenshots
+
+![Sub Alert](https://github.com/P1nk5peed/streamerbot-html-alerts/blob/main/screenshots/sub.png) ![Follow Alert](https://github.com/P1nk5peed/streamerbot-html-alerts/blob/main/screenshots/follow.png)
+
 ## Instructions
 
 This assumes you have Streamer.bot setup.
